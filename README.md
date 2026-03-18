@@ -17,6 +17,7 @@ El parcheador generado es un ejecutable ligero y sin dependencias que aplica los
 *   **Interfaz Moderna (UI):** Diseño oscuro estilo "Cyberpunk/Dev" con transiciones suaves y botones circulares personalizados.
 *   **Splash Screen:** Pantalla de inicio profesional con carga de imagen integrada.
 *   **Ejecutable Autocontenido:** La aplicación puede compilarse en un solo archivo `.exe` con recursos incrustados.
+<img width="600" height="350" alt="ventana" src="https://github.com/user-attachments/assets/0c4d8a9e-8e3b-4c5d-905c-b5950fc15377" />
 
 ## Requisitos del Sistema
 
