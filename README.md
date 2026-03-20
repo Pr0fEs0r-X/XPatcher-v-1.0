@@ -2,6 +2,12 @@
 
 <img width="500" height="273" alt="logo" src="https://github.com/user-attachments/assets/20badba4-6b93-44df-aa63-6b9459a14e74" />
 
+
+[![Python Version](https://img.shields.io/badge/Python-3.11-blue.svg?logo=python&logoColor=white)](https://python.org)
+[![C++ Standard](https://img.shields.io/badge/C++-17/20-blue.svg?logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![MinGW64](https://img.shields.io/badge/Compiler-MinGW64_(GCC)-red.svg?logo=gnu&logoColor=white)](https://www.mingw-w64.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 ## Descripción
 
 **XPatcher v 1.0r** es una herramienta de vanguardia diseñada para desarrolladores y empresas que requieren un método eficiente y seguro para distribuir actualizaciones binarias. Esta aplicación permite comparar dos versiones de un mismo ejecutable (Original y Modificado), identificar las diferencias a nivel de byte (Offsets y Valores Hexadecimales) y generar automáticamente un parcheador autónomo en C++.
