@@ -25,7 +25,7 @@ El parcheador generado es un ejecutable ligero y sin dependencias que aplica los
 *   Windows 7/8/10/11 (64-bit recomendado).
 *   **MinGW-W64 (g++)**: Debe estar instalado y añadido a la variable de entorno `PATH` del sistema para permitir la compilación.
 
-### Para compilar el código fuente (Desarrolladores):
+### quieres le codigo fuente Para compilar (Desarrolladores) ! Contactame:
 *   Python 3.8+
 *   Librerías: `pip install pillow pyinstaller`
 
